@@ -33,9 +33,9 @@ Stock Analysis Tool
     
 **Contact Me**
 Want to collaborate? Let’s build something amazing together!
-📧 Email:muchemalenson027@gmail.com
-🌐 Portfolio: lensonwandie.com
-📸 Instagram: @so_lenson
+Email:muchemalenson027@gmail.com
+Portfolio: lensonwandie.com
+Instagram: @so_lenson
 
  How to Run This Portfolio Locally
     Clone the repository:
